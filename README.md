@@ -18,5 +18,5 @@
 <a href="https://github-readme-stats-one-bice.vercel.app/api?username=Real-Simplicity&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" target="_blank">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Real-Simplicity&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" alt="Real-Simplicity's GitHub stats" height="185px">
 </a><a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Real-Simplicity&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Real-Simplicity&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" alt="Top Langs" height="185px">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Real-Simplicity&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&useless=useless#gh-dark-mode-only" alt="Top Langs" height="185px">
 </a>
